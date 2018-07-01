@@ -12,14 +12,14 @@ StereoCamCalibration - calculation of parameters during stereocamera calibration
 UndistortAndRectifyImg – checking of results after camera calibration. Distortion removal, rectification, framing and saving of calibrated stereopair as a file. 
 
 System requirements: 
--------— 
+-------
 1. ОС: Windows; 
 2. Qt 5.5.1 or higher; 
 3. Compiler with support for c++11 (as a default using MSVC 2013 64bit); 
 4. OpenCv 3 (as a default using opencv_world331.dll from directory "QtStereoCamCalibration/thirdparty/lib/"). 
 
 Setup for Windows: 
--------— 
+-------
 1. Clone the repository; 
 2. Switch to assembly pattern "Release"; 
 3. Build main project QtStereoCamCalibration; 
@@ -27,6 +27,6 @@ Setup for Windows:
 5. Copy (if required) libraries Qt to the folder with executable file. 
 
 Remark: 
--------— 
+-------
 1. Compiled applications are located in folder “bin”; 
 2. To get reference data launch application flagged as “--help”
