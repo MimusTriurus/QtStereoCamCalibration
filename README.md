@@ -30,3 +30,4 @@ Remark:
 -------
 1. Compiled applications are located in folder “bin”; 
 2. To get reference data launch application flagged as “--help”
+3. Build - https://cloud.mail.ru/public/5iHb/CbBNiNDin
